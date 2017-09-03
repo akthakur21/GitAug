@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-    // file is editted.
+    // file is editted. file 2 commited.
 }
 
 
